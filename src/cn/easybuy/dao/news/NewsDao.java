@@ -10,6 +10,10 @@ import cn.easybuy.param.NewsParams;
  * 新闻的dao
  */
 public interface NewsDao extends IBaseDao {
+
+
+
+
 	/**
 	 * 添加新闻
 	 * @param news
